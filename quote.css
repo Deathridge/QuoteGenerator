@@ -1,0 +1,32 @@
+.message-box {
+  background-color: grey;  
+  text-align: center;
+  margin-top: 10%;
+}
+
+.the-message {
+  padding-top:20%;
+  padding-bottom:20%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.new-quote {
+  float:right;  
+  margin-top: 2%;
+  margin-right:5%;
+  border-radius: 0;
+  background-color: black;
+  color:white;
+}
+.new-quote:hover,
+.new-quote:active {
+  background-color: lightgrey;
+  color:white;
+}
+
+.twitter {
+ font-size:3em;
+ float:left;
+ margin-left:5%;
+}
+
